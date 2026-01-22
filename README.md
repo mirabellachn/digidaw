@@ -93,7 +93,7 @@ All features are implemented using native iOS frameworks such as `SwiftUI`, `URL
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open the project in Xcode
@@ -102,7 +102,7 @@ All features are implemented using native iOS frameworks such as `SwiftUI`, `URL
 
 ---
 
-## 👤 Author
+## Author
 
 **Mirabella**  
 iOS Developer
